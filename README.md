@@ -1,2 +1,4 @@
-# tensorFlow
-Introduction to deep learning Coursework Practice
+# Tensor Flow 
+## Introduction to Deep Learning Coursework Practice (Instructor - Oswald Campesato)
+- Still learning tensor flow 
+
